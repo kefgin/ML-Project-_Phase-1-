@@ -27,6 +27,7 @@ In this project, there is a great resource for creating data visualizations and 
 - Create heatmaps of export/import values by countries over the years.
 - Forecast future trade growth in low carbon technology products using machine learning.
 -  Compare low carbon technology adoption among countries and their economic development.
+
 Last but not least, it provides valuable economic indicators to better understand how nations are trading and utilizing low-carbon technologies to meet climate goals. 
 
 
